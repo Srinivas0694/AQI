@@ -15,16 +15,8 @@
 
 ## 🖥️ Output Display (OLED – Portrait Mode)
 
-DEVICE 1
-────────
-PM1.0   3.9
-PM2.5   4.3
-PM4.0   4.4
-PM10    4.4
-Temp    23.0°C
-RH      46 %
-VOC     105
-NOx     1.0
+<img width="366" height="376" alt="image" src="https://github.com/user-attachments/assets/4d8d59d9-9bc1-43a2-a2a7-4a0974b5d2a9" />
+
 
 ![WhatsApp Image 2025-12-15 at 15 47 11_64a4179c](https://github.com/user-attachments/assets/d11b9136-87af-413d-8794-d3707719054b)
 
